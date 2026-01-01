@@ -15,6 +15,23 @@ button:active {
   border: none;
 }
 
+p {
+  font-family:"Rubik Mono One";
+  margin:11.5vh 0vh 10vh 10vh !important;
+  font-size:30vh;
+  max-height:45vh;
+}
+
+img {
+  width:15vh;
+  height:15vh;
+}
+
+table {
+  margin:10vh;
+  max-height:45vh;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

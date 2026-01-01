@@ -20,9 +20,9 @@
     "arm64",
     "x64"
   ],
-  "repository": "github.com/theocgaming/counter-thing",
-  "homepage": "github.com/theocgaming/counter-thing",
-  "updateUrl": "github.com/theocgaming/counter-thing",
+  "repository": "https://github.com/theocgaming/counter-thing",
+  "homepage": "https://github.com/theocgaming/counter-thing",
+  "updateUrl": "https://github.com/theocgaming/counter-thing",
   "id": "deskthing-counter",
   "template": "full"
 }
