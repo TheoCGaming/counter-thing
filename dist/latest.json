@@ -3,7 +3,7 @@
   "meta_type": "app",
   "repository": "https://github.com/theocgaming/counter-thing",
   "icon": "",
-  "size": 153652,
+  "size": 153840,
   "appManifest": {
     "label": "Counter Thing",
     "tags": [],
@@ -33,9 +33,9 @@
     "template": "full"
   },
   "updateUrl": "https://github.com/theocgaming/counter-thing/releases/latest/download/deskthing-counter-v0.11.4.zip",
-  "hash": "6e4715d98adbe84028800009c7592b95cfbeaa6bf4c56029e71624a40d934677416867d8ca436cfabab772e1aad5d044337e986587a2e618d353f419cacb3112",
+  "hash": "c31754b1e4a14017ecabf92127323fab26b567b033dc419366848db795a25e1d2094a1418e25061b869560ebb322d1f14c118bd33806b8ab117ce6c3f5b9d0f1",
   "hashAlgorithm": "sha512",
-  "updatedAt": 1767244497385,
-  "createdAt": 1767244497385,
+  "updatedAt": 1767244950017,
+  "createdAt": 1767244950017,
   "downloads": 0
 }
