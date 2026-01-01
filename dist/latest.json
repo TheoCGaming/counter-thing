@@ -1,0 +1,41 @@
+{
+  "meta_version": "0.11.8",
+  "meta_type": "app",
+  "repository": "https://github.com/theocgaming/counter-thing",
+  "icon": "",
+  "size": 192501,
+  "appManifest": {
+    "label": "Counter Thing",
+    "tags": [],
+    "requires": [],
+    "version": "0.11.4b",
+    "requiredVersions": {
+      "server": ">=0.0.0",
+      "client": ">=0.11.2"
+    },
+    "description": "A simple tool to use your DeskThing to keep track of whatever.",
+    "author": "theocgaming",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac",
+      "mac64",
+      "macarm",
+      "android",
+      "ios",
+      "arm64",
+      "x64"
+    ],
+    "repository": "https://github.com/theocgaming/counter-thing",
+    "homepage": "https://github.com/theocgaming/counter-thing",
+    "updateUrl": "https://github.com/theocgaming/counter-thing",
+    "id": "deskthing-counter",
+    "template": "full"
+  },
+  "updateUrl": "https://github.com/theocgaming/counter-thing/releases/latest/download/deskthing-counter-v0.11.4b.zip",
+  "hash": "6ff5af82d702f64640fdcaf90fb3a49e095ebba7dd0262934a0627138c1e0eeed512dac8bac8e45b863153b65e055b282bddc8c3b300affc38faa775a2511c4f",
+  "hashAlgorithm": "sha512",
+  "updatedAt": 1767246203963,
+  "createdAt": 1767246203963,
+  "downloads": 0
+}
