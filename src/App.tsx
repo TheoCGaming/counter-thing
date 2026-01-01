@@ -8,13 +8,13 @@ const App: React.FC = () => {
         <div className="gap-2 flex-row flex self-center">
             <p className="text-white" id="counter">000</p>
             <table className="block justify-center"><tbody><tr><td>
-            <img src="deskthing/up.svg" className="flex-initial" onClick={incCount}/>
+            <img src="up.svg" className="flex-initial" onClick={incCount}/>
             </td></tr><tr><td>
-            <img src="deskthing/down.svg" className="flex-initial invisible" onClick={decCount}/>
+            <img src="down.svg" className="flex-initial invisible" onClick={decCount}/>
             </td><td>
-            <img src="deskthing/reset.svg" className="flex-initial" onClick={resetCount}/>
+            <img src="reset.svg" className="flex-initial" onClick={resetCount}/>
             </td></tr><tr><td>
-            <img src="deskthing/down.svg" className="flex-initial" onClick={decCount}/>
+            <img src="down.svg" className="flex-initial" onClick={decCount}/>
             </td></tr></tbody></table>
         </div>
         </div>
