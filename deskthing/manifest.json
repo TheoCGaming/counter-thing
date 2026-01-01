@@ -2,7 +2,7 @@
   "label": "Counter Thing",
   "tags": [],
   "requires": [],
-  "version": "0.11.4",
+  "version": "0.11.4b",
   "requiredVersions": {
     "server": ">=0.0.0",
     "client": ">=0.11.2"
